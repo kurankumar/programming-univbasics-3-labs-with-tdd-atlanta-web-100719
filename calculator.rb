@@ -7,7 +7,15 @@ sum = first_number + second_number
 
 puts sum
 
-differnece = first_number - second_number
+difference = first_number - second_number
 
-puts differnece
+puts difference
+
+product = first_number * second_number
+
+puts product
+
+quotiant = first_number / second_number
+
+puts quotiant
 
