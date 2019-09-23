@@ -6,3 +6,8 @@ second_number = 10.4
 sum = first_number + second_number
 
 puts sum
+
+differnece = first_number - second_number
+
+puts differnece
+
